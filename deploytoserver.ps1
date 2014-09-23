@@ -1,0 +1,1 @@
+robocopy 'C:\Users\Acer\Documents\Visual Studio 2012\Projects\Starter\ModulesWeb.Web' C:\inetpub\wwwroot\Starter /s
